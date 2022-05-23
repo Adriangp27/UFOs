@@ -8,7 +8,7 @@ By adding Javascript filters to an existing dataset, a data journalist can fine 
 4. Shape
 5. Date
 
-### Resources[^1]
+### Resources
 + **Languages:** JavaScript, HTML, CSS
 + **Editor Tool:** Visual Studio Code
 + **Data source:** [data.js](https://github.com/Adriangp27/UFOs/blob/main/static/js/data.js)
