@@ -20,7 +20,8 @@ By adding Javascript filters to an existing dataset, a data journalist can fine 
 ## Results
 Users will find the title and description at the top of the website when entering it.
 
-![](Additonal_images/website.png)
+![website](https://user-images.githubusercontent.com/99752443/169725444-bd5c8209-03d5-440f-9f9b-7b8022eb31c3.png)
+
 
 After scrolling down the page, a specific filter search box can be seen. There are multiple filter types available depending on the user's preferences. Filters maybe set using the following criteria: Date. City, State, Country, Shape. Once the filters are set up, there will be no button to press.
 
